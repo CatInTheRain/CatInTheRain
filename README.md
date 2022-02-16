@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CatInTheRain
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Nonlinear control of quadrotor
+- 🌱 I’m currently learning Nonlinear control for quadrotor
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
