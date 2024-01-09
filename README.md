@@ -1,4 +1,4 @@
-- 👋 Hi, I am an Robotics and Automation Engineer.
+- 👋 Hi, my name is Massimo Teppati Losè and I am a Robotics and Automation Engineer.
 - :book: Currently I am doing the Ph.D. in Perceptual Robotics in Pisa, Italy (https://www.santannapisa.it/it/istituto/intelligenza-meccanica)
 - 👀 I’m interested in Robotics, UAVs and Multi-Robot Systems
 
